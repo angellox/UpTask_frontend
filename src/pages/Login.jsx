@@ -102,6 +102,10 @@ const Login = () => {
                     to='forgotten-password'
                 >Forgotten password</Link>
             </nav>
+
+            <footer>
+                <p className='text-embers-gray text-center text-xs my-2 font-bold'>Made by <a href='https://github.com/angellox' target="_blank">angellox_o</a></p>
+            </footer>
         </>
     )
 }
